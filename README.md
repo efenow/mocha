@@ -4,6 +4,8 @@
 </div>
 The simplicity and power you expect from a web proxy.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/efenow/mocha/])
+
 ## Features
 
 - [x] Sleek and simple UI
